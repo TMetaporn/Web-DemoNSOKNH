@@ -1,0 +1,11 @@
+.page {
+    max-width:1800px;
+    margin: auto;
+}
+.center {
+    text-align : center;
+}
+.right{
+    text-align : right;
+    /* <p align="right"> */
+}
