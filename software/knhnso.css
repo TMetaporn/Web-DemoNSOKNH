@@ -9,3 +9,33 @@
     text-align : right;
     /* <p align="right"> */
 }
+.legend {
+    background-color: #000;
+    color: #fff;
+    padding: 3px 6px;
+}
+
+.output {
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input {
+    margin: .4rem;
+}
+.btn-group button {
+    background-color: #4CAF50; /* Green background */
+    border: 1px solid green; /* Green border */
+    color: white; /* White text */
+    padding: 10px 30px; /* Some padding */
+    cursor: pointer; /* Pointer/hand icon */
+    float: left; /* Float the buttons side by side */
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(249, 250, 249);
+    color: white;
+    text-align: center;
+}
